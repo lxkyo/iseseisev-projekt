@@ -1,0 +1,53 @@
+#container {
+    text-align: left;
+    margin: 20px auto;
+    background-color: #BADFE7;
+    border-radius: 30px;
+}
+  
+.container h1{
+    color: #388087;
+    font-family: Montserrat;
+    font-size: 30px;
+    padding-top: 10px;
+}
+  
+#book-form {
+    display: grid;
+    font-family: Montserrat;
+    color: #388087;
+    position: relative;
+    font-size: 21px;
+    border-radius: 30px;
+    padding: 20px;
+}
+  
+#add-book-button {
+    margin: 25px auto;
+    font-family: Montserrat;
+    font-size: 20px;
+    text-align: left;
+    color: #388087;
+    background-color: #BADFE7;
+    border-radius: 30px;
+    box-shadow:none;
+}
+  
+#heading {
+    margin: 5px auto;
+    text-align: left;
+    top: 25px;
+}
+  
+#table {
+    font-family: Montserrat;
+    color: #388087;
+    font-size: 20px;
+}
+
+#author {
+    font-family: Montserrat;
+    color: #388087;
+    font-size: 20px;
+    margin: auto;
+}
